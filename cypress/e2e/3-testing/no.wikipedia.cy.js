@@ -5,3 +5,4 @@ describe("no.wikipedia.org", () => {
     cy.get('h1').contains("Noroff")
   })
 })
+
