@@ -1,0 +1,1 @@
+[![Automated Unit Testing](https://github.com/borikokeny/jest-test/actions/workflows/unit-test.yml/badge.svg)](https://github.com/borikokeny/jest-test/actions/workflows/unit-test.yml)
